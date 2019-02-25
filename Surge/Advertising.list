@@ -2,6 +2,7 @@
 # > General
 DOMAIN-KEYWORD,adservice
 DOMAIN-KEYWORD,analytics
+DOMAIN-KEYWORD,analysis
 
 DOMAIN-SUFFIX,3lift.com
 DOMAIN-SUFFIX,51.la
@@ -167,6 +168,7 @@ DOMAIN-SUFFIX,ssl2.duapps.com
 DOMAIN-SUFFIX,unityads.unity3d.com
 DOMAIN,log.umsns.com
 DOMAIN,log.snssdk.com
+DOMAIN,toblog.snssdk.com
 DOMAIN,wgo.mmstat.com
 DOMAIN,report.jpush.cn
 DOMAIN,static.jpush.cn
@@ -186,6 +188,7 @@ DOMAIN,ad.qingting.fm
 DOMAIN,ad-cn.jovcloud.com
 DOMAIN,adsapi.manhuaren.com
 DOMAIN,adsdk.dmzj.com
+DOMAIN,ads.daydaycook.com.cn
 DOMAIN,adshow.58.com
 DOMAIN,adshows.21cn.com
 DOMAIN,adui.tg.meitu.com
@@ -194,12 +197,14 @@ DOMAIN,adxserver.ad.cmvideo.cn
 DOMAIN,app-ad.variflight.com
 DOMAIN,applog.mobike.com
 DOMAIN,ggs.myzaker.com
+DOMAIN,log.b612kaji.com
 DOMAIN,log.star.ele.me
 DOMAIN,log.voicecloud.cn
 DOMAIN,log.ys7.com
 DOMAIN,logs.chelaile.net.cn
 DOMAIN,mopnativeadv.037201.com
 DOMAIN,nativeadv.dftoutiao.com
+DOMAIN,optimus-ads.amap.com
 DOMAIN,static.vuevideo.net
 DOMAIN,sugar.zhihu.com
 DOMAIN,track.58.com
@@ -232,6 +237,7 @@ DOMAIN,adash.man.aliyuncs.com
 DOMAIN,adashbc.ut.taobao.com
 DOMAIN,adash-c.ut.taobao.com
 DOMAIN,adashxgc.ut.taobao.com
+DOMAIN,adashx4yt.m.taobao.com
 DOMAIN,amdc.m.taobao.com
 DOMAIN,apoll.m.taobao.com
 DOMAIN,nbsdk-baichuan.alicdn.com
@@ -309,6 +315,7 @@ DOMAIN-SUFFIX,aty.sohu.com
 DOMAIN,imp.optaim.com
 DOMAIN,v2.reachmax.cn
 DOMAIN,track.sohu.com
+DOMAIN,hui.sohu.com
 # > HunanTV
 DOMAIN-SUFFIX,da.mgtv.com
 DOMAIN-SUFFIX,da.hunantv.com
@@ -375,3 +382,11 @@ DOMAIN,adfile.wifi8.com
 # > 百词斩
 DOMAIN,advertise.baicizhan.org
 DOMAIN,advertise.baicizhan.com
+# > The Paper
+DOMAIN,imgadpai.thepaper.cn
+DOMAIN,admonitor.thepaper.cn
+# > ByteDance
+DOMAIN,applog.musical.ly
+DOMAIN,track.toutiao.com
+DOMAIN,xlog.snssdk.com
+DOMAIN,xlog-va.byteoversea.com
